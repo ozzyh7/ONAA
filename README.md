@@ -1,2 +1,2 @@
 # ONAA
-One Night At Andy's official game
+One Night At Andy's game
